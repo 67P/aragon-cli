@@ -75,7 +75,7 @@
     "opn": "^6.0.0",
     "replace": "^1.1.0",
     "rimraf": "^2.6.2",
-    "semver": "^6.0.0",
+    "semver": "^6.1.0",
     "source-map-support": "^0.5.11",
     "stringify-tree": "^1.0.2",
     "tmp-promise": "^1.1.0",
